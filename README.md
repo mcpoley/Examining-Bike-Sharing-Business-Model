@@ -4,14 +4,16 @@ Citibike is a popular bike-share business in New York City. To explore program o
 
 ## Results: A summary of the results can be found here [link to story](https://public.tableau.com/profile/blake2633#!/?newProfile=&activeTab=0)
 •	The fewest bikes were rented in the early hours of the day. The most bikes were rented in the later after noon, and fewer bikes were rented in the evening. 
-[image]!(https://github.com/mcpoley/bikesharing/blob/main/Screen%20Shot%202021-02-14%20at%205.34.17%20PM.png)
+
+![image](https://github.com/mcpoley/bikesharing/blob/main/Screen%20Shot%202021-02-14%20at%205.34.17%20PM.png)
 
 •	Very few bikers biked for more than an hour. 
 
 •	Within a one-hour time block, males tend to check bikes out for longer durations. 
 
 •	“Subscriber” is a more popular consumer category both with male and female bikers than is “Customer.”
-[image]!(https://github.com/mcpoley/bikesharing/blob/main/Screen%20Shot%202021-02-14%20at%205.38.00%20PM.png)
+
+![image](https://github.com/mcpoley/bikesharing/blob/main/Screen%20Shot%202021-02-14%20at%205.38.00%20PM.png)
 
 ## Summary: Advice for investors of this start-up bike sharing business is as follows considering the results of the study:
 
